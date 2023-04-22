@@ -13,18 +13,6 @@ public class Main {
         printList();
     }
 
-    /*
-       3840 1799
-       0839 5866
-       9032 7286
-       4996 8567
-       2451 8483
-       0430 9503
-       6172 7983
-       2384 6957
-       1608 5884
-       4660 3492
-   */
     public static void inputCodeList() {
         System.out.println("Type numbers and press Enter.");
         Scanner scanner = new Scanner(System.in);
