@@ -3,8 +3,6 @@
 The Incrementing Digits Tool is a simple program designed to increment the digits of any given integer by 1. If a digit
 is 9, it is incremented to 0. The resulting integer is then output in groups of 4 digits for easy readability.
 
-In result, these numbers are divisible by 4.
-
 # Example Output
 
 ```
